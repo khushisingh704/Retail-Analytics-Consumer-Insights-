@@ -6,7 +6,8 @@ This project presents an end-to-end Retail Analytics solution developed using SQ
 
 The objective is to help stakeholders monitor business performance, identify growth opportunities, optimize inventory management, and evaluate marketing effectiveness through interactive analytics.
 
----
+Verified that Premium and Regular customers showed no statistically significant difference in spending using Welch's t-test and Cohen's d, preventing unsupported customer-targeting strategies and promoting evidence-based business decisions.
+
 
 ## 🎯 Business Objectives
 
